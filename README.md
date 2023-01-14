@@ -4,9 +4,11 @@ This proyect, is created with, HTML, CSS, Javascript, Bootstrap, Fast API.
 
 ### Images
 
-![](images/Captura.PNG)
+![](images/init.PNG)
 
-![](images/Monitoreo.PNG)
+![](images/login.PNG)
+
+![](images/tabla.PNG)
 
 ### Username = JuancGarcia
 
